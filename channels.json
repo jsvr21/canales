@@ -9,12 +9,12 @@
       "url": "http://186.190.231.179:8000/play/a05g/index.m3u8"
     },
     {
-      "name": "Manchester United vs PAOK Salonika",
-      "url": "https://99a.pricesaskeloadsc.com/starplus04/tracks-v1a1/mono.m3u8?token=45e4230aabeba40d0b8371affeb13c37434b66b3-ad-1731049708-1731013708"
-    },
-    {
       "name": "Chelsea VS Fc Noah",
       "url": "https://tes1.dbcast.live/nzkkKXZcvRzeNgQqOSCRUw/1731040505/3138312e3131382e3134392e3139/ff832/playlist.m3u8"
+    },
+    {
+      "name": "Manchester United vs PAOK Salonika",
+      "url": "https://99a.pricesaskeloadsc.com/starplus04/tracks-v1a1/mono.m3u8?token=45e4230aabeba40d0b8371affeb13c37434b66b3-ad-1731049708-1731013708"
     }
   ]
 }
