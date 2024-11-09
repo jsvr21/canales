@@ -10785,3 +10785,5 @@ http://bolgenco.xyz:2082/series/josemvsr/asd/474537.mkv
 http://bolgenco.xyz:2082/series/josemvsr/asd/474919.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Los anillos de poder S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPXBWFxzfKgD7clsxRxk24hzSqi.jpg" group-title="SERIES OTRAS PLATAFORMAS",El señor de los anillos: Los anillos de poder S02 E07
 http://bolgenco.xyz:2082/series/josemvsr/asd/474920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="DEPORTES",ESPN HD
+http://190.60.32.178:8178/play/a02k/index.m3u8
