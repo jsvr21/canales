@@ -7,10 +7,6 @@
     {
       "name": "ESPN HD",
       "url": "http://190.60.32.178:8178/play/a02k/index.m3u8"
-    },
-    {
-      "name": "Colombia VS Ecuador",
-      "url": "https://d12.jisdeshmaiganga.com:999/hls/directsp.m3u8?md5=NEMWc7QVjzU9Uw7AC5wbbg&expires=1732061619"
     }
   ]
 }
