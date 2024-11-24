@@ -7,6 +7,10 @@
     {
       "name": "ESPN HD",
       "url": "http://190.60.32.178:8178/play/a02k/index.m3u8"
+    },
+    {
+      "name": "Real Madrid VS Leganes",
+      "url": "https://y2fzdgxl.la10tv.com/m_laligatv/tracks-v1a1/mono.m3u8?token=5cd5e4bf72e355b671572e3a0cd6a9d674634798-b0-1732505226-1732469226"
     }
   ]
 }
