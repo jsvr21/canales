@@ -3,10 +3,6 @@
     {
       "name": "WIN SPORT",
       "url": "http://186.190.231.179:8000/play/a05g/index.m3u8"
-    },
-    {
-      "name": "Real madrid VS Atalanta",
-      "url": "https://cdn16.en-vivo.info/espn/tracks-v1a1/mono.m3u8?remote=181.118.149.19&token=8caa51583a8319469ccdff70453c0ef42c7848ef-bb7d4a3551ecbf1a96f9a5214ca1d1ce-1733871517-1733860717"
     }
   ]
 }
