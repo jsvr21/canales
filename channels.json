@@ -3,6 +3,10 @@
     {
       "name": "WIN SPORT +",
       "url": "http://186.190.231.179:8000/play/a05g/index.m3u8"
+    },
+    {
+      "name": "Real madrid VS Manchester city",
+      "url": "https://florcd.pricesaskeloadsc.com/espn/tracks-v1a1/mono.m3u8?token=81c5ed9eaeb8368f0cf69f65dc1c40850dcf7931-37-1739322742-1739290342"
     }
   ]
 }
